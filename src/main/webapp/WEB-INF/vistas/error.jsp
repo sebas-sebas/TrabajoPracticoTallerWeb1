@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>TP TALLER WB 1 - PUNTO 5</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>${suma}</h1>
+<h1 class="text-danger">${operacionMensaje}</h1>
 </body>
 </html>
